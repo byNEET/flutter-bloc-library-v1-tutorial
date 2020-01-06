@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_bloc_v1_tutorial/bloc/bloc.dart';
 import 'package:flutter_bloc_v1_tutorial/data/model/weather.dart';
 
+import '../bloc/bloc.dart';
 import 'weather_detail_page.dart';
 
 class WeatherSearchPage extends StatelessWidget {
